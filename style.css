@@ -1,0 +1,177 @@
+/* GLOBAL============================================ */
+:root {
+    --black: #024242;
+    --yellow: #FCA60F;
+    --light-yellow: #cf9f4a;
+    --brown: #C95E20;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+    margin: 0 auto;
+}
+
+/* HEADER=========================================== */
+header {
+    height: 95px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: 0px 1px 8px rgba(36, 36, 36, 0.15);
+}
+
+#menu ul {
+    list-style: none;
+}
+
+#menu ul li {
+    display: inline;
+}
+
+#menu ul li:nth-child(2) {
+    margin: 0 50px;
+}
+
+#menu ul li a {
+    display: inline-block;
+    text-decoration: none;
+    color: var(--black);
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    margin: 12px 0 16px;
+}
+
+/* MAIN======================================== */
+main {
+    height: 100vh;
+    margin: 0 auto;
+}
+
+#images-box {
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+}
+
+#image1 {
+    position: absolute;
+    width: 479.39px;
+    height: 552.14px;
+    left: -143px;
+    top: 267px;
+    transform: rotate(-5.99deg);;
+}
+
+#image2 {
+    position: absolute;
+    width: 519.83px;
+    height: 489.39px;
+    left: 75%;
+    top: 85px;
+    transform: rotate(9.27deg);
+}
+
+#container-info {
+    position: absolute;
+    top: 25%;
+}
+
+#info-group {
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    overflow: hidden;
+}
+
+#text-box {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 49px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+#info-group button {
+    margin-top: 94px;
+    width: 290px;
+    height: 60px;
+    left: 160px;
+    background: #FCA60F;
+    color: white;
+    font-weight: 600;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+}
+
+#info-group button:hover{
+    transition: 0.2s;
+    background: var(--light-yellow);
+}
+
+#social-box img:nth-child(2){
+    margin: 0 14px;
+}
+
+#social-box {
+    margin-top: 33px;
+}
+
+#scroll-box {
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+/* RESPONSIVE========================================== */
+@media screen and (max-width: 450px) {
+    
+    header{
+        flex-direction: column;
+    }
+
+    #logo {
+        margin-top: 13px;
+    }
+
+    #image1 {
+        width: 323.6px;
+        height: 372.7px;
+        left: -180px;
+        top: 152.75px;
+    }
+
+    #image2 {
+        width: 380.38px;
+        height: 358.11px;
+        left: 232.71px;
+        top: 388px;
+    }
+
+    #text-box{
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    #coffee-box {
+        display: none;
+    }
+
+    #scroll-box {
+        display: none;
+    }
+}
