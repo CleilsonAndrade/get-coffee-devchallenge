@@ -16,7 +16,7 @@
 * [Links DevChallenge](#links-devchallenge)
 * [Licença](#licença)
 
-# Descrição
+# 📃 <span id="descrição">Descrição</span>
 Página desenvolvida com base nos requisitos do [desafio](https://github.com/lucianesantcs/get-coffee) oferecido pela [**DevChallenge**](https://devchallenge.now.sh/).
 
 ## Features:
@@ -39,7 +39,7 @@ Página desenvolvida com base nos requisitos do [desafio](https://github.com/luc
 - <span id="fontes">Fontes<br></span>
   * Nunito: Semi-bold 600, Bold 700
 
-# Instalação:
+# 🚀 <span id="instalação">Instalação</span>
 ```bash
   # Clone este repositório:
   $ git clone https://github.com/CleilsonAndrade/get-coffee-devchallenge
