@@ -5,9 +5,8 @@
 </div>
 
 # 📒 Índice
-
 * [Descrição](#descrição)
-* [Features](#features) 
+* [Requisitos Funcionais](#requisitos)
 * [Tecnologias](#tecnologias)
 * [Design](#design)
   * [Cores](#cores)
@@ -19,7 +18,7 @@
 # 📃 <span id="descrição">Descrição</span>
 Página desenvolvida com base nos requisitos do [desafio](https://github.com/lucianesantcs/get-coffee) oferecido pela [**DevChallenge**](https://devchallenge.now.sh/).
 
-## Features:
+# 📌 <span id="requisitos">Requisitos Funcionais</span>
 - [x] Responsividade<br>
 
 # 💻 <span id="tecnologias">Tecnologias</span>
@@ -54,7 +53,6 @@ Página desenvolvida com base nos requisitos do [desafio](https://github.com/luc
 **Instagram:** https://www.instagram.com/devchallenge/<br>
 
 # 📝 <span id="licença">Licença</span>
-
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
