@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Get Coffee</h1>
-  <p>Landing page de uma cafeteria online, página desenvolvida com base nos requisitos do desafio oferecido pela @devchallenge-io.</p>
+  <p>Landing page de uma cafeteria online, realizando estudos de responsividade.</p>
   <img src="./design/desktop.png" alt="Logo" width="800">
 </div>
 
@@ -16,7 +16,7 @@
 * [Licença](#licença)
 
 # 📃 <span id="descrição">Descrição</span>
-Página desenvolvida com base nos requisitos do [desafio](https://github.com/lucianesantcs/get-coffee) oferecido pela [**DevChallenge**](https://devchallenge.now.sh/).
+Landing page de uma cafeteria online, página desenvolvida com base nos requisitos do [desafio](https://github.com/lucianesantcs/get-coffee) oferecido pela [**DevChallenge**](https://devchallenge.now.sh/).
 
 # 📌 <span id="requisitos">Requisitos Funcionais</span>
 - [x] Responsividade<br>
