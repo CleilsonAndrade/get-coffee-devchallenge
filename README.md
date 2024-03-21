@@ -36,12 +36,12 @@ Landing page de uma cafeteria online, página desenvolvida com base nos requisit
   * #C95E20<br>
 
 - <span id="fontes">Fontes<br></span>
-  * Nunito: Semi-bold 600, Bold 700
+  * Nunito, sans-serif
 
 # 🚀 <span id="instalação">Instalação</span>
 ```bash
   # Clone este repositório:
-  $ git clone https://github.com/CleilsonAndrade/get-coffee-devchallenge
+  $ git clone https://github.com/CleilsonAndrade/get-coffee-devchallenge.git
   $ cd ./get-coffee-devchallenge
 ```
 
