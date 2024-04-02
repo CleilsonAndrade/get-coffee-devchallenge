@@ -27,7 +27,6 @@ Landing page de uma cafeteria online, página desenvolvida com base nos requisit
 
 # 🎨 <span id="design">Design</span>
 - O modelo final para desktop e mobile está disponível na pasta `./design`
-- Imagens disponíveis na pasta `./assets`<br>
 
 - <span id="cores">Cores<br></span>
   * #0242424<br>
